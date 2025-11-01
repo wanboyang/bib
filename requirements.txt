@@ -3,3 +3,6 @@ bibtexparser>=1.4.0
 requests>=2.25.0
 beautifulsoup4>=4.9.0
 lxml>=4.6.0
+
+# DeepSeek API 增强功能依赖
+openai>=1.0.0  # 用于DeepSeek API兼容性
